@@ -1,0 +1,9 @@
+html,body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: aliceblue;
+}
+.top-section a{
+    color: rgba(246, 109, 221, 0.911);
+}
